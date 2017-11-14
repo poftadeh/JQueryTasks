@@ -36,7 +36,7 @@ li:hover span {
 }
 
 h1 {
-  background-color: #2980b9;
+  background-color: #1abc9c;
   color: white;
   margin: 0;
   padding: 10px 20px;
@@ -83,10 +83,7 @@ li:hover {
 
 body {
   font-family: 'Roboto', sans-serif;
-  background: #085078;
-  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #85D8CE, #085078);
-  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #85D8CE, #085078);
-  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
+  background: #141E30;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  }
